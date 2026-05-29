@@ -2,8 +2,6 @@
 
 ### 👋 hi, i'm ashcircle03
 
-LLM으로 뭔가를 만드는 개발자.<br>
-RAG · LLMOps · DevOps를 만지작거립니다.
 
 <br>
 
