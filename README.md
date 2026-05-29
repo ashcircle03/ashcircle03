@@ -16,5 +16,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br>
-
-→ **[ashcircle03.github.io](https://ashcircle03.github.io)**
